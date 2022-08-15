@@ -1,0 +1,15 @@
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv19\obj\Debug\net6.0\Objectiv19.csproj.AssemblyReference.cache
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv19\obj\Debug\net6.0\Objectiv19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv19\obj\Debug\net6.0\Objectiv19.AssemblyInfoInputs.cache
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv19\obj\Debug\net6.0\Objectiv19.AssemblyInfo.cs
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv19\obj\Debug\net6.0\Objectiv19.csproj.CoreCompileInputs.cache
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv19\bin\Debug\net6.0\Objectiv19.exe
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv19\bin\Debug\net6.0\Objectiv19.deps.json
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv19\bin\Debug\net6.0\Objectiv19.runtimeconfig.json
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv19\bin\Debug\net6.0\Objectiv19.dll
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv19\bin\Debug\net6.0\Objectiv19.pdb
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv19\obj\Debug\net6.0\Objectiv19.dll
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv19\obj\Debug\net6.0\refint\Objectiv19.dll
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv19\obj\Debug\net6.0\Objectiv19.pdb
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv19\obj\Debug\net6.0\Objectiv19.genruntimeconfig.cache
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv19\obj\Debug\net6.0\ref\Objectiv19.dll
