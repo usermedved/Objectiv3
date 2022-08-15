@@ -1,0 +1,15 @@
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv21\bin\Debug\net6.0\Objectiv21.exe
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv21\bin\Debug\net6.0\Objectiv21.deps.json
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv21\bin\Debug\net6.0\Objectiv21.runtimeconfig.json
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv21\bin\Debug\net6.0\Objectiv21.dll
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv21\bin\Debug\net6.0\Objectiv21.pdb
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv21\obj\Debug\net6.0\Objectiv21.csproj.AssemblyReference.cache
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv21\obj\Debug\net6.0\Objectiv21.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv21\obj\Debug\net6.0\Objectiv21.AssemblyInfoInputs.cache
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv21\obj\Debug\net6.0\Objectiv21.AssemblyInfo.cs
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv21\obj\Debug\net6.0\Objectiv21.csproj.CoreCompileInputs.cache
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv21\obj\Debug\net6.0\Objectiv21.dll
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv21\obj\Debug\net6.0\refint\Objectiv21.dll
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv21\obj\Debug\net6.0\Objectiv21.pdb
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv21\obj\Debug\net6.0\Objectiv21.genruntimeconfig.cache
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv21\obj\Debug\net6.0\ref\Objectiv21.dll
