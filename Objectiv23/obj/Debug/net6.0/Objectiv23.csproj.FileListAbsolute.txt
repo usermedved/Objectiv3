@@ -1,0 +1,15 @@
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv23\bin\Debug\net6.0\Objectiv23.exe
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv23\bin\Debug\net6.0\Objectiv23.deps.json
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv23\bin\Debug\net6.0\Objectiv23.runtimeconfig.json
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv23\bin\Debug\net6.0\Objectiv23.dll
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv23\bin\Debug\net6.0\Objectiv23.pdb
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv23\obj\Debug\net6.0\Objectiv23.csproj.AssemblyReference.cache
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv23\obj\Debug\net6.0\Objectiv23.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv23\obj\Debug\net6.0\Objectiv23.AssemblyInfoInputs.cache
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv23\obj\Debug\net6.0\Objectiv23.AssemblyInfo.cs
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv23\obj\Debug\net6.0\Objectiv23.csproj.CoreCompileInputs.cache
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv23\obj\Debug\net6.0\Objectiv23.dll
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv23\obj\Debug\net6.0\refint\Objectiv23.dll
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv23\obj\Debug\net6.0\Objectiv23.pdb
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv23\obj\Debug\net6.0\Objectiv23.genruntimeconfig.cache
+D:\Документы\Рабочий стол\С#\Objectiv3\Objectiv23\obj\Debug\net6.0\ref\Objectiv23.dll
